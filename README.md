@@ -8,7 +8,7 @@ Its performance does not scale to large quantities of data!
 
 Steps to run programs
 Option 1(both OS X and linux):
-1. pip install virutalenv
+1. pip install virtualenv
 2. git clone the repository using the command git clone 
 3. cd into the repository
 4. virtualenv dlw
